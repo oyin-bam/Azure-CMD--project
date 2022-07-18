@@ -1,4 +1,9 @@
 # Write-up Template
+# THE WEB URL
+https://bambam-cmd-app.azurewebsites.net/
+
+# screenshots in folder
+example_images/my images/
 
 ### Analyze, choose, and justify the appropriate resource option for deploying the app.
 
